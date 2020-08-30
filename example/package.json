@@ -1,0 +1,12 @@
+{
+  "name": "example",
+  "private": true,
+  "scripts": {
+    "build": "microbuild index.scss"
+  },
+  "devDependencies": {
+    "autoprefixer": "~9.8.6",
+    "microbuild": "file:../",
+    "postcss-scss": "~2.1.1"
+  }
+}
